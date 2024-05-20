@@ -7,3 +7,4 @@ This repository contains a collection of miscellaneous 3D models I've created, w
 * ethernet-switch-cover: A cover for a Tenda 8 port ethernet switch, to block out the LEDs
 * shuttle-base: A base for the Phyx space shuttle PCB model, which should also be compatible with their other similar model. Friction fit, it hides the coin cell battery while still exposing the power switch
 * ikea-akerbar-pot: a trough-like pot that fits neatly inside an Ikea Åkerbär mini greenhouse. Print two ends and the centre piece, slot and glue them together, and add a liner and you're good to go
+* bird-feeder-fitting: a fitting to hold a bird feeder pole in a parasol base without wobbling
