@@ -6,3 +6,4 @@ This repository contains a collection of miscellaneous 3D models I've created, w
 * desk-bracket: A couple of brackets to add a back panel to an open-back desk
 * ethernet-switch-cover: A cover for a Tenda 8 port ethernet switch, to block out the LEDs
 * shuttle-base: A base for the Phyx space shuttle PCB model, which should also be compatible with their other similar model. Friction fit, it hides the coin cell battery while still exposing the power switch
+* ikea-akerbar-pot: a trough-like pot that fits neatly inside an Ikea Åkerbär mini greenhouse. Print two ends and the centre piece, slot and glue them together, and add a liner and you're good to go
