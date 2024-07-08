@@ -10,3 +10,4 @@ This repository contains a collection of miscellaneous 3D models I've created, w
 * bird-feeder-fitting: A fitting to hold a bird feeder pole in a parasol base without wobbling
 * usb-pd-board: A small box to house a common USB type C power delivery board. Contains a space to route the wires out of the housing
 * led-pwm-controller-board: A small box to house an LED PWM controller board. Note that this design does not provide access for the mode setting button
+* large-shelf-divider: A divider to create a 3x3 grid inside a floating cube shelf. This fits the largest cube found in 3-packs of cube floating shelves. Friction fit, no glue required
