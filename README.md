@@ -14,3 +14,4 @@ This repository contains a collection of miscellaneous 3D models I've created, w
 * wyse-3040-vesa-mount: A Vesa-compatible (100x100) mounting bracket to hold a Dell Wyse 3040. Designed to be secured with two screws, this design has clearance around the screws to fit monitors with a lip around the screw holes. It also has space between the bracket and monitor to allow the mount to be used with monitors that have a curved back. Both closed and open versions are available
 * coaster-base: A circular base to sit in a cheese plate/fondue pot, to allow its use as a coaster
 * mini-plant-pot: A small rectangular box designed for use as a plant pot. Has cut-outs on the rear to insert magnets, to allow the pot to be attached to magnetic surfaces
+* usb-case-insert: An insert for a metal case originally used to hold a novelty USB drive
