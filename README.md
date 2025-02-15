@@ -15,3 +15,4 @@ This repository contains a collection of miscellaneous 3D models I've created, w
 * coaster-base: A circular base to sit in a cheese plate/fondue pot, to allow its use as a coaster
 * mini-plant-pot: A small rectangular box designed for use as a plant pot. Has cut-outs on the rear to insert magnets, to allow the pot to be attached to magnetic surfaces
 * usb-case-insert: An insert for a metal case originally used to hold a novelty USB drive
+* hooks: Various hooks to attach to shelves
